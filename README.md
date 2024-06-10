@@ -83,10 +83,10 @@ A simple Python program that creates a fun Mad Libs story by taking user inputs 
 
 This simple program demonstrates the basics of string interpolation and user input in Python, providing a fun way to engage with programming concepts.
 
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
-
 
 ## Contact
 
